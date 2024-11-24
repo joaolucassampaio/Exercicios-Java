@@ -1,4 +1,5 @@
 # Exercício 1:
+1-
 a) Automovel que contém as constantes NUMEROMAXIMOPRESTACOES (24) (é uma
 constante provada), GASOLINA (1), FLEX (2), DIESEL (3), GAS (4) (constantes
 públicas), além dos atributos modelo, cor e combustível. Os métodos, além dos
@@ -10,6 +11,7 @@ gets e sets, devem ter:
 3. 52000 se for a gas
 4. 58000 se for flex
 3. ToString cuja saída deve ser: “modelo cor Movido a (tipo)”
+   
 b) AutomovelBasico que herda da classe Automovel e que contém os atributos booleanos
 retrovisorDoPassageiro, limpadorTraseiro, radioAmFm. O construtor e os
 métodos is (quando um atributo é booleano, não se usa get, mas sim
@@ -18,6 +20,7 @@ is), sets, toString e:
 1. 1250 se o automóvel tiver retrovisor do passageiro
 2. 500 se tiver limpador traseiro
 3. 1500 se tiver rádio AM/FM
+   
 c) AutomovelDeLuxo que herda da classe AutomovelBasico e que contém os
 atributos booleanos direcaohidraulica, cambioAutomatico, vidroETravaEletrica e
 uma redeclaração da constante NUMEROMAXIMOPRESTACOES (36). O construtor
@@ -28,6 +31,8 @@ o número máximo de prestações
 1. 2500 se o automóvel tiver direção hidráulica
 2. 3000 se tiver câmbio automático
 3. 1700 se tiver vidro e trava elétrica
+
+   
 2 – Fazer um aplicativo AppAutomovel, que
 1. Preencha um ArrayList de 5 posições (tipo Automovel), com Automovel na primeira
 posição, AutomovelBasico na segunda e terceira e AutomovelDeLuxo nas duas últimas.

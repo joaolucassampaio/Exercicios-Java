@@ -32,6 +32,7 @@ o número máximo de prestações
 2. 3000 se tiver câmbio automático
 3. 1700 se tiver vidro e trava elétrica
 
+
    
 2 – Fazer um aplicativo AppAutomovel, que
 1. Preencha um ArrayList de 5 posições (tipo Automovel), com Automovel na primeira
@@ -40,6 +41,8 @@ posição, AutomovelBasico na segunda e terceira e AutomovelDeLuxo nas duas últ
 3. Mude o câmbio de todos os Automóveis de Luxo.
 4. Imprima somente os Automóveis Básicos.
 5. Imprima somente os automóveis que possuem radio.
+
+   
 Obs. 1): Observe novamente que o vetor de Automovel aceita que se preencha-o
 com Automovel, AutomovelBasico e AutomovelDeLuxo, por que?
 Porque tanto AutomovelBasico quanto AutomovelLuxo são tipos de Automovel.
